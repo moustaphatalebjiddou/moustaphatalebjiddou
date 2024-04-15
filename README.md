@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @moustaphatalebjiddou
 - 👀 I’m interested in software development, artificial intelligence, and open-source projects.
-- 🌱 I’m currently learning machine learning and web development langages and Technologies/frameworks/Librairies :
-      Php,Java,JavaScript : Laravel,SpringBoot ,Spring,Jquery,Angular,React,Ajax.
+- 🌱 I’m currently learning AI and web development langages / Technologies/frameworks/Librairies :
+      Php,Java,JavaScript,Python,Dart : Laravel, Symfony, Spring, SpringBoot, JEE, Jquery, Angular, React, Ajax, Data Visualization, Django, Flutter.
 - 💞️ I’m looking to collaborate on projects related to data science and web development.
 - 📫 You can reach me through my email: mohamedelmoustaphath@gmail.com.
 
